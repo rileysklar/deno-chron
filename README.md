@@ -25,19 +25,19 @@ Before you begin, ensure you have Deno installed on your system. Visit [Deno's o
 
 1. **Clone the repository:**
 
-   \```bash
+   ```bash
    git clone https://github.com/yourusername/yourprojectname.git
    cd yourprojectname
-   \```
+   ```
 
 2. **Install dependencies (if any):**
 
    For React frontend:
 
-   \```bash
+   ```bash
    cd frontend
    npm install
-   \```
+   ```
 
 3. **Environment Variables:**
 
@@ -47,16 +47,16 @@ Before you begin, ensure you have Deno installed on your system. Visit [Deno's o
 
 To run the Deno cron job:
 
-\```bash
+```bash
 deno run --allow-net --allow-read --allow-write index.ts
-\```
+```
 
 To start the React frontend:
 
-\```bash
+```bash
 cd frontend
 npm start
-\```
+```
 
 ## 📄 License
 
